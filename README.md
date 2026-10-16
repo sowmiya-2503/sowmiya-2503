@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sowmiya! 👋
 
-<!--
-**sowmiya-2503/sowmiya-2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Electronics and Communication Engineering student
 
-Here are some ideas to get you started:
+💻 Interested in Embedded Systems and Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- JavaScript (Beginner)
+
+## 🚀 My Projects
+
+### 🧮 Simple Calculator
+A simple calculator built using HTML, CSS, and JavaScript.
+
+🔗 [Live Demo](https://sowmiya-2503.github.io/calculator/)
+
+📂 [View Source Code](https://github.com/sowmiya-2503/calculator)
+
+## 🌱 Currently Learning
+- C Programming
+- Embedded Systems
+- JavaScript
+
+
